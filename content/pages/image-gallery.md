@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section includes a gallery of images from a class field trip to
+  Iceland.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Image Gallery
 uid: b3c6b3e0-51d2-5533-55fb-a1fef08ed31a
 ---
