@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of speakers and seminar topics for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1e48ef4b-fbb2-af7a-55e8-dad47b28a54b
 ---

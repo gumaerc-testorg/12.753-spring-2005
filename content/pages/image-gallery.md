@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section includes a gallery of images from a class field trip to
+  Iceland.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: b3c6b3e0-51d2-5533-55fb-a1fef08ed31a
 ---
 
-{{< image-gallery id="b3c6b3e0-51d2-5533-55fb-a1fef08ed31a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-753-geodynamics-seminar-spring-2005/" >}}
+{{< image-gallery id="b3c6b3e0-51d2-5533-55fb-a1fef08ed31a_nanogallery2" baseUrl="/courses/12-753-geodynamics-seminar-spring-2005/" >}}
 {{< image-gallery-item href="5716ac56bbb9a483502b935e96a815fd_01.jpg" data-ngdesc="Sault Ste Marie (pronounced sue saint marie) is located between the two largest Great Lakes: Lake Huron and Lake Superior. The city overlooks the St Marys River with rapids that used to be portaged by the early fur traders, which now has a canal with locks for the Great Lakes freighters. Images courtesy of Andrew Daly." text="Sault Ste Marie (pronounced sue saint marie) is located between the two largest Great Lakes: Lake Huron and Lake Superior. The city overlooks the St Marys River with rapids that used to be portaged by the early fur traders, which now has a canal with locks for the Great Lakes freighters." >}}
 {{< image-gallery-item href="1ef7ccfa0486bcc3403d4690f4f437ba_02.jpg" data-ngdesc="A participant inspects Old Woman Bay, Lake Superior National Park. Images courtesy of Laurent Montesi." text="A participant inspects Old Woman Bay, Lake Superior National Park." >}}
 {{< image-gallery-item href="26a3dccf7613910cac9b8a121391446d_03.jpg" data-ngdesc="An extremely well-preserved example of Precambrian pillow basalt textures -evidence of seafloor eruption of this basalt, analagous to processes observed today at Loihi (Hawaii) and at active Mid-Ocean Ridges. Images courtesy of Andrew Daly." text="An extremely well-preserved example of Precambrian pillow basalt textures -evidence of seafloor eruption of this basalt, analagous to processes observed today at Loihi (Hawaii) and at active Mid-Ocean Ridges." >}}
