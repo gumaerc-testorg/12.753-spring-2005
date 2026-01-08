@@ -35,7 +35,7 @@ READINGS FOR REFERENCE
 Dr. John Lewis
 {{< tdclose >}}
 {{< tdopen >}}
-To stimulate a wider view of the issue of formation of planetary systems, perhaps the students can visit the {{% resource_link "2d652b40-d1b8-4832-a5cf-a5aa4eada0c5" "The Extrasolar Planets Encyclopaedia" %}} Web site and read through the Extra-solar Planets Catalog to get an idea of how bizarrely different these systems can be. They list 135 planets of the 140 or so presently under discussion as candidates.
+To stimulate a wider view of the issue of formation of planetary systems, perhaps the students can visit the [The Extrasolar Planets Encyclopaedia](http://exoplanet.eu/) Web site and read through the Extra-solar Planets Catalog to get an idea of how bizarrely different these systems can be. They list 135 planets of the 140 or so presently under discussion as candidates.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -280,7 +280,7 @@ Dr. Jim Kasting
 {{< tdopen >}}
 
 
-Feng Tian, Owen B. Toon, Alexander A. Pavlov, and H. De Sterck. "A Hydrogen-Rich Early Earth Atmosphere." {{% resource_link "25c6c1ac-5664-465f-b9b6-5d9def202f5b" "_Sciencexpress_" %}} 7 (April 2005): 1/10.1126/science.1106983.
+Feng Tian, Owen B. Toon, Alexander A. Pavlov, and H. De Sterck. "A Hydrogen-Rich Early Earth Atmosphere." [_Sciencexpress_](http://science.sciencemag.org/content/308/5724/1014) 7 (April 2005): 1/10.1126/science.1106983.
 
 James Kasting, and David Catling. "Evolution of a Habitable Planet." _Annual Revised Astron. Astrophys_ 41 (2003): 429-63.
 
